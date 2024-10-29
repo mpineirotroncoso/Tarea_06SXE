@@ -22,7 +22,7 @@ Esperamos a que la instalacion finalize
 
 Ahora tenemos que eliminar la carpeta install y renombrar la carpeta admin
 
-![](img/compose6)
+![](img/compose6.png)
 
 Entramos en el container
 ```sh
